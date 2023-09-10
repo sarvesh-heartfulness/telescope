@@ -5,7 +5,7 @@
         "dev": "vite",
         "build": "vite build",
         "serve": "vite serve",
-        "production": "vite build"
+        "production": "vite serve"
     },
     "devDependencies": {
         "@tailwindcss/forms": "^0.5.2",
